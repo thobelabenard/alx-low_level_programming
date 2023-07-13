@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - the programming that will be using puts to run
- * Return: 0
- */
+*main - print output using the put function
+*return: 0 (success)
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle")
-return (0);
+return 0;
 }
