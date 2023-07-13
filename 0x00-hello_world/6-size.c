@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - various types on the computer it is compiled
- * return: Always 0 (success)
- */
+*  main - print output using the prinf function
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 
