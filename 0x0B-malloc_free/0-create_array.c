@@ -1,11 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * main - create array of size and assign char c	
- * show: array size		
- * Return: pointer to array (NULL) if it fail	
+ * main - create array of size and assign char c
+ * show: array size
+ * Return: pointer to array (NULL) if it fail
  */
-		
+
 char *create_array(unsigned int size, char c)
 {
 	char *str;
