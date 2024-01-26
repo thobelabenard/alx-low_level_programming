@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * binary_to_uint - converts a binary number into assigned
- * @b: string contain binary
+ * binary_to_uint - converts a binary number to unsigned int
+ * @b: string containing the binary number
  *
- * Return: the number conveted
+ * Return: the converted number
  */
-
 unsigned int binary_to_uint(const char *b)
 {
 	int i;
